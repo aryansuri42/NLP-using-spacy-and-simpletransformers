@@ -1,0 +1,104 @@
+>FN*1/16                                                        
+001 YTOCOK 06APR23 EY CAD  1271.00 VLRV2CA  STAY-04/6M BK-V     
+16. PENALTIES                                                   
+UNLESS OTHERWISE SPECIFIED   NOTE - RULE GE19 IN IPRG           
+APPLIES                                                         
+FOR V- TYPE FARES                                               
+  CHANGES                                                       
+    ANY TIME                                                    
+      CHARGE CAD 300.00 FOR REISSUE/REVALIDATION.               
+      WAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.           
+         NOTE -                                                 
+          FOR ALL CHANGES WITHIN 96 HOURS BEFORE DEPARTURE      
+          OF A FLIGHT A CHARGE OF 330 CAD MUST BE COLLECTED     
+          FOR CHANGE OF RESERVATION.                            
+          -----------------------------------------------       
+          ONE DATE CHANGE PERMITTED FOC WHEN RETURN DATE        
+          OUT OF RANGE.                                         
+          RETURN DATE MUST BE SPECIFIED AT TIME OF ORIGINAL     
+          BOOKING.                                              
+          IF ORIGINAL RBD IS NOT AVAILABLE THEN ANY FARE        
+          DIFFERENCE SHALL APPLY.                               
+          -------------------------------------------------     
+          OFFICIAL DOCUMENTATION REQUIRED IN THE CASE OF        
+          DEATH OF PASSENGER/FAMILY MEMBER                      
+  CANCELLATIONS                                                 
+    ANY TIME                                                    
+      TICKET IS NON-REFUNDABLE IN CASE OF CANCEL/REFUND.        
+      WAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.           
+         NOTE -                                                 
+          YQ/YR ARE CARRIER SPECIFIED CHARGES AND REMAIN        
+          NON REFUNDABLE EVEN IN CASES WHERE ONLY TAXES ARE     
+          REFUNDED EXCEPT FOR TICKETS ISSUED IN                 
+          UK/NETHERLANDS/LUXEMBOURG AND NORDICS -CONSISTS       
+          OF DENMARK/FINLAND/NORWAY/ICELAND AND SWEDEN AND      
+          THEIR ASSOCIATED TERRITORIES -THE FAROE               
+          ISLANDS/GREENLAND/ AND ALAND.                         
+          --------------------------------------------------    
+          OFFICIAL DOCUMENTATION REQUIRED IN THE CASE OF        
+          DEATH OF PASSENGER/FAMILY MEMBER                      
+          -------------------------------------------------     
+          IN CASES WHERE THE APPLICABLE PENALTIES ARE           
+          HIGHER THAN THE SUM OF BASE FARE AND FUEL             
+          SURCHARGE - ONLY THE BASE FARE AND FUEL SURCHARGE     
+          TO BE RETAINED. GOVERNMENT TAXES AND AIRPORT          
+          CHARGES TO BE REFUNDED IN FULL                        
+          --------------------------------------------------    
+          TICKETS ISSUED 7 DAYS OR MORE PRIOR TO A FLIGHTS      
+          SCHEDULED DEPARTURE CAN BE CANCELLED/REFUNDED         
+          WITHOUT PENALTY UP TO 24 HOURS AFTER A TICKET IS      
+          ISSUED.                                               
+          --------------------------------------------------    
+  CHANGES                                                       
+    ANY TIME                                                    
+      CHARGE CAD 600.00 FOR NO-SHOW.                            
+      WAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.           
+         NOTE -                                                 
+          NO SHOW CHARGE IS NOT APPLICABLE FOR INFANT           
+          WITHOUT A SEAT.                                       
+          --------------------------------------------------    
+          OFFICIAL DOCUMENTATION REQUIRED IN THE CASE OF        
+          DEATH OF PASSENGER/FAMILY MEMBER                      
+          -----------------------------------------------       
+          ONE DATE CHANGE PERMITTED FOC WHEN RETURN DATE        
+          OUT OF RANGE.                                         
+          RETURN DATE MUST BE SPECIFIED AT TIME OF ORIGINAL     
+          BOOKING.                                              
+          IF ORIGINAL RBD IS NOT AVAILABLE THEN ANY FARE        
+          DIFFERENCE SHALL APPLY.                               
+          -------------------------------------------------     
+          IF A NO SHOW TICKET IS PROCESSED FOR ANY              
+          CHANGES/REFUND THEN THE PENALTIES OF                  
+          CHANGE /REFUND WITHIN 96 HOURS BEFORE                 
+          DEPARTURE OF A FLIGHT WILL BE APPLICABLE              
+          IN ADDITION TO THE NO SHOW CHARGE.                    
+  CANCELLATIONS                                                 
+    ANY TIME                                                    
+      TICKET IS NON-REFUNDABLE IN CASE OF NO-SHOW.              
+      WAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.           
+         NOTE -                                                 
+          NO SHOW CHARGE IS NOT APPLICABLE FOR INFANT           
+          WITHOUT A SEAT.                                       
+          --------------------------------------------------    
+          OFFICIAL DOCUMENTATION REQUIRED IN THE CASE OF        
+          DEATH OF PASSENGER/FAMILY MEMBER                      
+          --------------------------------------------------    
+          IF A NO SHOW TICKET IS PROCESSED FOR ANY              
+          CHANGES/REFUND THEN THE PENALTIES OF                  
+          CHANGE /REFUND WITHIN 96 HOURS BEFORE                 
+          DEPARTURE OF A FLIGHT WILL BE APPLICABLE              
+          IN ADDITION TO THE NO SHOW CHARGE.                    
+          -------------------------------------------------     
+          IN CASES WHERE THE APPLICABLE PENALTIES ARE           
+          HIGHER THAN THE SUM OF BASE FARE AND FUEL             
+          SURCHARGE - ONLY THE BASE FARE AND FUEL SURCHARGE     
+          TO BE RETAINED. GOVERNMENT TAXES AND AIRPORT          
+          CHARGES TO BE REFUNDED IN FULL                        
+          --------------------------------------------------    
+          YQ/YR ARE CARRIER SPECIFIED CHARGES AND REMAIN        
+          NON REFUNDABLE EVEN IN CASES WHERE ONLY TAXES ARE     
+          REFUNDED EXCEPT FOR TICKETS ISSUED IN                 
+          UK/NETHERLANDS/LUXEMBOURG AND NORDICS -CONSISTS       
+          OF DENMARK/FINLAND/NORWAY/ICELAND AND SWEDEN AND      
+          THEIR ASSOCIATED TERRITORIES -THE FAROE               
+          ISLANDS/GREENLAND/ AND ALAND.                         
